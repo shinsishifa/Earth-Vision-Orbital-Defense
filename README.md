@@ -20,4 +20,4 @@
 3. **Defend Earth:** Intercept falling red meteors before they hit the planet surface!
 
 ---
- to visit :`https://<your-username>.github.io/<repo-name>/`
+ to visit :`https://shinsishifa.github.io/Earth-Vision-Orbital-Defense/`
